@@ -8,15 +8,15 @@
 김종성 [김종성님의 깃허브 바로가기](https://github.com/SEJSCloud)<br>
 
 # 사용 기술셋
-NoSql DB : ElasticSearch 
-Development Language : Elastic Search Query
-Tool : Kibana, Postman
+NoSql DB : ElasticSearch <br>
+Development Language : Elastic Search Query <br>
+Tool : Kibana, Postman 
 
 # 개발 환경
 
-Window 10
-Elastic Search 7.1.1
-Kibana 7.1.1
+Window 10 <br>
+Elastic Search 7.1.1 <br>
+Kibana 7.1.1 <br>
 
 # 키바나 쿼리 시연
 <img src="img/1.png"></img>
